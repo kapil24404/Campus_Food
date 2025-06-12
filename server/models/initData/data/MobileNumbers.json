@@ -1,0 +1,18 @@
+[
+  {
+    "mobile_number": "8708834667",
+    "type": "mobile",
+    "user_id": 1,
+    "restaurant_id": 1,
+    "solution_id": "some-unique-solution-id-1",
+    "mobile_number_hash": "hash_value_for_8437047547"
+  },
+  {
+    "mobile_number": "7602959233",
+    "type": "mobile",
+    "user_id": 2,
+    "restaurant_id": 2,
+    "solution_id": "some-unique-solution-id-3",
+    "mobile_number_hash": "hash_value_for_7602959233"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "shop_id": 1,
+    "name": "BarKet Food",
+    "location": "Block A, Campus Food Court",
+    "contact_number": "1234567890",
+    "opening_hours": "8 AM - 10 PM"
+  },
+  {
+    "shop_id": 2,
+    "name": "Hot Food & Baker",
+    "location": "Block B, Campus Food Court",
+    "contact_number": "2345678901",
+    "opening_hours": "9 AM - 9 PM"
+  },
+  {
+    "shop_id": 3,
+    "name": "King Cafés",
+    "location": "Block C, Campus Food Court",
+    "contact_number": "3456789012",
+    "opening_hours": "8 AM - 8 PM"
+  },
+  {
+    "shop_id": 4,
+    "name": "Zaika",
+    "location": "Block D, Campus Food Court",
+    "contact_number": "4567890123",
+    "opening_hours": "7 AM - 11 PM"
+  },
+  {
+    "shop_id": 5,
+    "name": "Yasnao",
+    "location": "Block E, Campus Food Court",
+    "contact_number": "5678901234",
+    "opening_hours": "10 AM - 9 PM"
+  },
+  {
+    "shop_id": 6,
+    "name": "Rock & Roll",
+    "location": "Block F, Campus Food Court",
+    "contact_number": "6789012345",
+    "opening_hours": "9 AM - 8 PM"
+  },
+  {
+    "shop_id": 7,
+    "name": "PunjabiRasoi",
+    "location": "Block G, Campus Food Court",
+    "contact_number": "7890123456",
+    "opening_hours": "8 AM - 10 PM"
+  },
+  {
+    "shop_id": 8,
+    "name": "PranthaHouse",
+    "location": "Block H, Campus Food Court",
+    "contact_number": "8901234567",
+    "opening_hours": "9 AM - 9 PM"
+  },
+  {
+    "shop_id": 9,
+    "name": "CatchUp",
+    "location": "Block I, Campus Food Court",
+    "contact_number": "9012345678",
+    "opening_hours": "10 AM - 8 PM"
+  },
+  {
+    "shop_id": 10,
+    "name": "InstaFood",
+    "location": "Block J, Campus Food Court",
+    "contact_number": "1239874560",
+    "opening_hours": "11 AM - 9 PM"
+  }
+]

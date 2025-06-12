@@ -1,0 +1,82 @@
+[
+  {
+    "campus_id": 1,
+    "name": "BarKet Food",
+    "contact_info": "1234567890",
+    "operation_hours": "8 AM - 10 PM",
+    "status": "Active",
+    "solution_id": "a4d7f9c4-bb60-4c97-b73b-c75f92556792"
+  },
+  {
+    "campus_id": 1,
+    "name": "Hot Food & Baker",
+    "contact_info": "2345678901",
+    "operation_hours": "9 AM - 9 PM",
+    "status": "Active",
+    "solution_id": "b4d7f9c4-bb60-4c97-b73b-c75f92556793"
+  },
+  {
+    "campus_id": 1,
+    "name": "King Cafés",
+    "contact_info": "3456789012",
+    "operation_hours": "8 AM - 8 PM",
+    "status": "Active",
+    "solution_id": "c4d7f9c4-bb60-4c97-b73b-c75f92556794"
+  },
+  {
+    "campus_id": 1,
+    "name": "Zaika",
+    "contact_info": "4567890123",
+    "operation_hours": "7 AM - 11 PM",
+    "status": "Active",
+    "solution_id": "d4d7f9c4-bb60-4c97-b73b-c75f92556795"
+  },
+  {
+    "campus_id": 1,
+    "name": "Yasnao",
+    "contact_info": "5678901234",
+    "operation_hours": "10 AM - 9 PM",
+    "status": "Active",
+    "solution_id": "e4d7f9c4-bb60-4c97-b73b-c75f92556796"
+  },
+  {
+    "campus_id": 1,
+    "name": "Rock & Roll",
+    "contact_info": "6789012345",
+    "operation_hours": "9 AM - 8 PM",
+    "status": "Active",
+    "solution_id": "f4d7f9c4-bb60-4c97-b73b-c75f92556797"
+  },
+  {
+    "campus_id": 1,
+    "name": "PunjabiRasoi",
+    "contact_info": "7890123456",
+    "operation_hours": "8 AM - 10 PM",
+    "status": "Active",
+    "solution_id": "g4d7f9c4-bb60-4c97-b73b-c75f92556798"
+  },
+  {
+    "campus_id": 1,
+    "name": "PranthaHouse",
+    "contact_info": "8901234567",
+    "operation_hours": "9 AM - 9 PM",
+    "status": "Active",
+    "solution_id": "h4d7f9c4-bb60-4c97-b73b-c75f92556799"
+  },
+  {
+    "campus_id": 1,
+    "name": "CatchUp",
+    "contact_info": "9012345678",
+    "operation_hours": "10 AM - 8 PM",
+    "status": "Active",
+    "solution_id": "i4d7f9c4-bb60-4c97-b73b-c75f92556800"
+  },
+  {
+    "campus_id": 1,
+    "name": "InstaFood",
+    "contact_info": "1239874560",
+    "operation_hours": "11 AM - 9 PM",
+    "status": "Active",
+    "solution_id": "j4d7f9c4-bb60-4c97-b73b-c75f92556801"
+  }
+]

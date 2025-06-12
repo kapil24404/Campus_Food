@@ -1,0 +1,42 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "Veg Noodles",
+    "price": 70,
+    "details": "Breakfast - Noodles",
+    "availability": true,
+    "imgID":1
+  },
+  {
+    "restaurant_id": 1,
+    "name": "Chilli Garlic",
+    "price": 80,
+    "details": "Breakfast - Noodles",
+    "availability": true,
+    "imgID":2
+  },
+  {
+    "restaurant_id": 1,
+    "name": "Chilli Momos",
+    "price": 100,
+    "details": "Breakfast - Noodles",
+    "availability": true,
+    "imgID":3
+  },
+  {
+    "restaurant_id": 1,
+    "name": "Egg Noodles",
+    "price": 90,
+    "details": "Breakfast - Noodles",
+    "availability": true,
+    "imgID":4
+  },
+  {
+    "restaurant_id": 1,
+    "name": "Chicken Noodles",
+    "price": 90,
+    "details": "Breakfast - Noodles",
+    "availability": true,
+    "imgID":5
+  }
+]

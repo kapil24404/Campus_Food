@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chandigarh University",
+    "location_details": "Located in Gharuan, Punjab, India, near Chandigarh."
+  },
+  {
+    "name": "Panjab University",
+    "location_details": "Located in Sector 14, Chandigarh, India."
+  },
+  {
+    "name": "Lovely Professional University",
+    "location_details": "Located in Phagwara, Punjab, India."
+  },
+  {
+    "name": "Amity University",
+    "location_details": "Located in Mohali, Punjab, India."
+  },
+  {
+    "name": "Shiv Nadar University",
+    "location_details": "Located in Greater Noida, Uttar Pradesh, India."
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "location_details": "Located in New Mehrauli Road, New Delhi, India."
+  },
+  {
+    "name": "Banaras Hindu University ",
+    "location_details": "Located in Varanasi, Uttar Pradesh, India."
+  },
+  {
+    "name": "ABC ",
+    "location_details": "Located in Varanasi, Uttar Pradesh, India."
+  },
+  {
+    "name": "ABCD",
+    "location_details": "Located in Varanas, Uttar Pradesh, India."
+  }
+]
