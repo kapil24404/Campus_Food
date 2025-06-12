@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.wrapped-image {
+  outline: 4px solid #ddd; /* Outer border */
+  outline-offset: 4px; /* Space between the image and the outer border */
+}

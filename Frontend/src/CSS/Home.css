@@ -1,0 +1,10 @@
+.home_container{
+    gap: 15 px;
+    white-space: nowrap;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch,
+}
+
+.second_food_cart{
+    flex: 0 0 auto;
+}
